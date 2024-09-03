@@ -31,3 +31,8 @@ This project is a C++ application that provides functionalities for user managem
 ## Dependencies
 - This project may require additional libraries such as SFML for graphical functionalities. Ensure proper setup and installation of dependencies before running the application.
 
+## Contributing
+
+
+-  Laiba Mazhar (laibamazhar.000@gmail.com)
+- [Tashfeen Abbasi](https://github.com/tashi-2004) (abbasitashfeen7@gmail.com)
