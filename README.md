@@ -31,8 +31,10 @@ This project is a C++ application that provides functionalities for user managem
 ## Dependencies
 - This project may require additional libraries such as SFML for graphical functionalities. Ensure proper setup and installation of dependencies before running the application.
 
+## Setup
+To set up the SFML library in Visual Studio, follow the instructions provided in this [YouTube tutorial](https://youtu.be/4fcTqmT0Hhg?si=9P9EzivHpW9cB9K2).
+
+
 ## Contributing
-
-
 -  Laiba Mazhar (laibamazhar.000@gmail.com)
 - [Tashfeen Abbasi](https://github.com/tashi-2004) (abbasitashfeen7@gmail.com)
