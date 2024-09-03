@@ -9,7 +9,7 @@ This project is a C++ application that provides functionalities for user managem
 - `electric.txt`: Text file containing data related to electric guitar.
 - `ukulele.txt`: Text file containing data related to ukulele.
 - `background.png`: Image file used for the background in the GUI.
-  
+- `1.pdf, 2.pdf`: Handwritten Notes for SOFTWARE ENGINEERING 
 ## Classes and Functionalities
 ### User Management
 - `User`: Manages user data, registration, and login functionalities.
