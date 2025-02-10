@@ -1,7 +1,7 @@
 # Console-Guitar-System
 
 ## Overview
-This project is a C++ application that provides functionalities for user management, guitar learning, and a game environment. It includes classes for different user levels, a game implementation, and a graphical user interface (GUI).
+This project is a C++ application that provides functionalities for user management, guitar learning, and a game environment. It includes classes for different user levels, a game implementation, and a graphical user interface (GUI)
 
 ## Files
 - `main.cpp`: Contains the main implementation code for the project.
