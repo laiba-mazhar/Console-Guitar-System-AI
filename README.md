@@ -38,3 +38,4 @@ To set up the SFML library in Visual Studio, follow the instructions provided in
 ## Contributing
 -  Laiba Mazhar (laibamazhar.000@gmail.com)
 - [Tashfeen Abbasi](https://github.com/tashi-2004) (abbasitashfeen7@gmail.com)
+- [Rafia Khan](https://github.com/rafiahkhan)  
